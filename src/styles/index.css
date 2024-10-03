@@ -24,22 +24,21 @@ body {
   width: 80px;
   height: 100px;
   border-radius: 50%;
-  background-color: blue;
-   transition: box-shadow 0.5s ease, background-color 0.5s ease;
+  transition: box-shadow 0.9s ease, background-color 0.7s ease;
 }
 
 .red {
-  background: red;
+  background-color: red;
 }
 
 .yellow {
-  background: yellow;
+  background-color: yellow;
 }
 
 .green {
-  background: green;
+  background-color: green;
 }
 
 .glow {
-  box-shadow: 0px 0px 9px 4px #747de8;
+  box-shadow: 0 0 30px 15px rgba(255, 255, 255, 0.4);
 }
